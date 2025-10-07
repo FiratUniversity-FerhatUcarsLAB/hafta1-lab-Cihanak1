@@ -1,4 +1,19 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541107
+AD-SOYAD:Cihan Akalın
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+
+Başla
+  Eğer kazanabileceğin bir hamle varsa:
+    O hamleyi yap
+ * Aksi halde eğer rakip kazanmak üzereyse:
+    Onu engelle
+ * Aksi halde eğer merkez boşsa:
+    Merkeze oyna
+ * Aksi halde eğer köşe boşsa:
+    Bir köşeye oyna
+ * Aksi halde:
+    Boş kenardan birini seç
+Bitir
