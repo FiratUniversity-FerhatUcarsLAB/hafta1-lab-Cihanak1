@@ -1,4 +1,24 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541107
+AD-SOYAD:Cihan Akalın
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+
+
+Başla
+  Katılımcı listesini ve tercihlerini al
+  Tercih sayacı oluştur
+
+  Her katılımcı için:
+    Tercihini sayaçta 1 artır
+
+  En yüksek oya sahip tercihleri belirle
+
+  Eğer tek tercih öndeyse:
+    O tercih seçilir
+  Aksi halde:
+    Eşit tercihler arasından rastgele seç
+
+  Seçimi duyur
+Bitir
