@@ -1,4 +1,23 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541107 
+AD-SOYAD:Cihan Akalın
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+
+Başla
+  Bütçeyi belirle (örneğin: 500 TL)
+  Alışveriş listesi oluştur.
+  Sepeti boş olarak ayarla.
+
+  Önceliği yüksek olandan düşüğe doğru ürün listesini sırala
+
+  Her ürün için:
+    * Eğer ürün fiyatı bütçeden küçük veya eşitse:
+      Ürünü sepete ekle
+      Bütçeden ürün fiyatını çıkar
+    * Aksi halde:
+      Ürünü alma (bir sonraki ürüne geç)
+
+  Sepetteki ürünleri ve kalan bütçeyi göster
+Bitir
