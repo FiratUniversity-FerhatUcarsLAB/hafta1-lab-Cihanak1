@@ -1,4 +1,16 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541107 
+AD-SOYAD:Cihan Akalın
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+
+Başla
+  NotListesi = [(Ali, 70), (Veli, 90), (Ayşe, 85)]
+Liste uzunluğunu n olarak al
+    i = 0'dan n-1'e kadar:
+    j = 0'dan n-i-1'e kadar:
+       * Eğer NotListesi[j].puan < NotListesi[j+1].puan ise:
+          İkisini yer değiştir
+Sıralanmış listeyi yazdır
+Bitir
