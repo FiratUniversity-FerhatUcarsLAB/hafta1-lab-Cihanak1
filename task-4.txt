@@ -1,4 +1,22 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541107
+AD-SOYAD:Cihan Akalın
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+
+Başla
+  Girdi: N (kişi sayısı), Pasta (bütün)
+  
+  Fonksiyon: pastaBöl(pasta, kişiSayısı)
+    Eğer kişiSayısı == 1 ise:
+      Pastayı ver
+    Aksi halde:
+      kişi1 = kişiSayısı / 2
+      kişi2 = kişiSayısı - kişi1
+      pastayı iki eşit parçaya ayır
+      pastaBöl(pastaParça1, kişi1)
+      pastaBöl(pastaParça2, kişi2)
+
+  pastaBöl(Pasta, N)
+Bitir
